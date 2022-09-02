@@ -1,20 +1,4 @@
-<div align="center">
-  <br />
-  <p>
-  <a href="https://ibb.co/9gXYTYQ"><img src="https://i.ibb.co/54Dc8cb/Discordclone.jpg" width="546" alt="Discordclone" border="0"></a>
-  </p>
-  <br />
-  <p>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://github.com/discordjs/discord.js/workflows/Testing/badge.svg" alt="Build status" /></a>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/languages/code-size/arihant-jain-09/discord-clone" alt="Code Size" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/repo-size/arihant-jain-09/discord-clone" alt="Build status" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=code" alt="Total Code lines" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=files" alt="total code files" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=lines" alt="total number of lines" /></a>
-  </p> 
-</div>
-
+## Discord Server Copier
 
 
 ## Table of contents
